@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ADF2.3</string>
+    <string name="edittext_url">http://developer.android.com</string>
+    <string name="buton_url">Open Website</string>
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_loc">Open Location</string>
+    <string name="button_share">Share This Text</string>
+    <string name="implicit_intent">Implicit Intents</string>
+</resources>
